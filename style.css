@@ -3,6 +3,9 @@
   margin: 0;
   font-family: "Itim", cursive;
 }
+body {
+  background-color: black;
+}
 
 .background {
   background-color: black;
