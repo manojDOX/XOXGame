@@ -21,6 +21,3 @@ A simple and fun Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScrip
 - **CSS3**
 - **Vanilla JavaScript**
 - **Google Fonts** – Itim font
-
-## 📂 Project Structure
-
