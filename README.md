@@ -2,10 +2,6 @@
 
 A simple and fun Tic-Tac-Toe game built using **HTML**, **CSS**, and **JavaScript**. Play as Player X or O and compete to win in this classic 3x3 board game!
 
-## 🖼️ Preview
-
-![screenshot](./screenshot.png) <!-- Replace with actual screenshot if available -->
-
 ## ✨ Features
 
 - Interactive 3x3 Tic-Tac-Toe board
